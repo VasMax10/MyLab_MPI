@@ -1,0 +1,8 @@
+﻿  ParallelMST.cpp
+C:\Users\VasMax10\source\repos\MyLab_Parallel\ParallelMST.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyLab_Parallel.vcxproj -> C:\Users\VasMax10\source\repos\Lab01_Serial\x64\Release\MyLab_Parallel.exe
